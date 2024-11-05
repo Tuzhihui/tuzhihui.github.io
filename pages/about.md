@@ -32,7 +32,7 @@ Email: tuzh_2019@163.com
   
 - **Zhihui Tu**, Shunda Chen， Jian Lu\*, Lin Li, Qingtang Jiang, \"Non-local and fully connected tensor network decomposition for remote sensing image denoising\", _Numerical Mathematics: Theory, Methods and Applications_, vol. 17, no. 2, pp. 379-403, 2024. [[PDF]](https://doc.global-sci.org/uploads/Issue/NMTMA/shortpdf/v17n2/172_379.pdf) 
 
-- **Zhihui Tu**\#, Kaitao Yang\#， Jian Lu\*, Qingtang Jiang, \"Tensor recovery using the tensor nuclear norm based on nonconvex and nonlinear transformations\", _Signal Processing_, vol. 219, pp. 109400, 2024. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0165168424000197)
+- **Zhihui Tu**\#, Kaitao Yang\#， Jian Lu\*, Qingtang Jiang, \"Tensor recovery using the tensor nuclear norm based on nonconvex and nonlinear transformations\", _Signal Processing_, vol. 219, pp. 109400, 2024. (\# Equal contribution) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0165168424000197)
   
 - Weijie Liang\#, **Zhihui Tu**\#, Jian Lu\*, Kai Tu, Michael K.Ng, \"Fixed-Point Convergence of Multi-block PnP ADMM and Its Application to Hyperspectral Image Restoration\", _IEEE Transactions on Computational Imaging_, 2024. (\# Equal contribution) [[Link]](https://ieeexplore.ieee.org/abstract/document/10731563)
 
