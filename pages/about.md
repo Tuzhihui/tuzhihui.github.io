@@ -36,11 +36,11 @@ Email: tuzh_2019@163.com
   
 - Weijie Liang\#, **Zhihui Tu**\#, Jian Lu\*, Kai Tu, Michael K.Ng, \"Fixed-Point Convergence of Multi-block PnP ADMM and Its Application to Hyperspectral Image Restoration\", _IEEE Transactions on Computational Imaging_, 2024. (\# Equal contribution) [[Link]](https://ieeexplore.ieee.org/abstract/document/10731563)
 
-- Yigong Zhang\#, **Zhihui Tu**\#, Jian Lu\*, Chen Xu, Lixin Shen, \"Fusion of low-rankness and smoothness under learnable nonlinear transformation for tensor completion\", _Knowledge-Based Systems_, vol. 296, pp. 111917, 2024. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005513)
+- Yigong Zhang\#, **Zhihui Tu**\#, Jian Lu\*, Chen Xu, Lixin Shen, \"Fusion of low-rankness and smoothness under learnable nonlinear transformation for tensor completion\", _Knowledge-Based Systems_, vol. 296, pp. 111917, 2024. (\# Equal contribution) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005513)
 
-- Linhong Luo\#, **Zhihui Tu**\#, Jian Lu\*, Chao Wang, Chen Xu, \"A nonlinear high-order transformations-based method for high-order tensor completion\", _Signal Processing_, vol. 225, pp. 109514, 2024. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001336)
+- Linhong Luo\#, **Zhihui Tu**\#, Jian Lu\*, Chao Wang, Chen Xu, \"A nonlinear high-order transformations-based method for high-order tensor completion\", _Signal Processing_, vol. 225, pp. 109514, 2024. (\# Equal contribution) [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0165168424001336)
 
-- Gen Li, **Zhihui Tu**\*, Jian Lu\*, Chao Wang, Lixin Shen, \"Multi-dimensional image recovery via self-supervised nonlinear transform based three-directional tensor nuclear norm\", _Numerical Mathematics: Theory, Methods and Applications_, 2024. [[PDF]](https://doc.global-sci.org/uploads/admin/article_pdf/20240613/2c57b3c02334434635a9c2da1d6414c1.pdf)
+- Gen Li, **Zhihui Tu**\*, Jian Lu\*, Chao Wang, Lixin Shen, \"Multi-dimensional image recovery via self-supervised nonlinear transform based three-directional tensor nuclear norm\", _Numerical Mathematics: Theory, Methods and Applications_, 2024. (\* Corresponding author) [[PDF]](https://doc.global-sci.org/uploads/admin/article_pdf/20240613/2c57b3c02334434635a9c2da1d6414c1.pdf)
 
 - Yigong Zhang, **Zhihui Tu**, Jian Lu\*, Chen Xu, Michael K.Ng, \"Cyclic tensor singular value decomposition with applications in low-rank high-order tensor recovery\", _Signal Processing_, vol. 225, pp. 109628, 2024. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0165168424002470)
 
