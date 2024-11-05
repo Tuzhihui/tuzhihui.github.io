@@ -34,7 +34,7 @@ Email: tuzh_2019@163.com
 
 - **Zhihui Tu**\#, Kaitao Yang\#， Jian Lu\*, Qingtang Jiang, \"Tensor recovery using the tensor nuclear norm based on nonconvex and nonlinear transformations\", _Signal Processing_, vol. 219, pp. 109400, 2024. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0165168424000197)
   
-- Weijie Liang\#, **Zhihui Tu**\#, Jian Lu\*, Kai Tu, Michael K.Ng, \"Fixed-Point Convergence of Multi-block PnP ADMM and Its Application to Hyperspectral Image Restoration\", _IEEE Transactions on Computational Imaging_, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10731563)
+- Weijie Liang\#, **Zhihui Tu**\#, Jian Lu\*, Kai Tu, Michael K.Ng, \"Fixed-Point Convergence of Multi-block PnP ADMM and Its Application to Hyperspectral Image Restoration\", _IEEE Transactions on Computational Imaging_, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10731563)
 
 - Yigong Zhang\#, **Zhihui Tu**\#, Jian Lu\*, Chen Xu, Lixin Shen, \"Fusion of low-rankness and smoothness under learnable nonlinear transformation for tensor completion\", _Knowledge-Based Systems_, vol. 296, pp. 111917, 2024. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005513)
 
