@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Tuzhi Hui</center> <center>(涂志辉)</center>"
+  name             : "<center>Zhihui Tu</center> <center>(涂志辉)</center>"
   avatar           : "images/fig2.png"
-  bio              : "<center>Jiangxi Science and Technology Normal University (SWJTU)<center>"
+  bio              : "<center>Jiangxi Science and Technology Normal University (JXSTNU)<center>"
   location         : "Nanchang, China"
   employer         :
   pubmed           : 
